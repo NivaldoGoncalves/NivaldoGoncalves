@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Nivaldo Junior!
 
-- 🔭 Atualmente Trabalhando como Estagiario na Empresa Fepam Universidade Unipam
+- 🔭 Atualmente Trabalhando como Analista de BI II na empresa UNIMED Patos de Minas
 - 🌱 Programador Full Stack
-      Especialidades:Programador Full Stack
       Especialidades: Python, Java, C#, Vue.JS Next.Js, React, Node.Js e Linux
 
 <div>
